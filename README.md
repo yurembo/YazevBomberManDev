@@ -1,0 +1,3 @@
+This app represents a level builder for my game YazevBomberMan. I developed this very long time ago using Delphi. 
+You see this app uses my 3D engine of YazevBomberMan game. Using this app you can make levels for YazevBomberMan: resize the playfield, put cubes and boxes, define the initial points of monsters and a main character and other things. Next you can save the level to a file, after that you can open this file and edit this in the visual editor. Enjoy!
+Here you can see main code file.
